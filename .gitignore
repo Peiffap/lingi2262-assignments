@@ -736,4 +736,4 @@ vignettes/*.pdf
 
 # End of https://www.gitignore.io/api/r,tex,latex,python,pycharm,pycharm+iml,pycharm+all
 
-assignment5/src/catboost-info*
+assignment5/src/catboost_info/
